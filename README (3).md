@@ -1,4 +1,4 @@
-# ----------------------------- Project PART 1 -----------------------------
+#  Project PART 1 
 
 ## --- Recherches ---
 Pour commencer, phase de 'recherches' afin de déterminer quelles ressources nous allons utiliser pour la base de notre partie I du projet. Ces ressources inclues les fichiers et informations obtenues durant les UEs qui ont été suivies durant l'année.
@@ -16,7 +16,7 @@ Pour cette partie, le cours de Ansible, accompagné de la documentation Ansible,
     * Renseigner le provision pour l'accès au playbook ansible
 5. Installation des services via les playbook
 
-## --- Comment ça marche ---
+
 
 ### --- Mise en place ---
 Create and start all servers
